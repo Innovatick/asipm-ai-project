@@ -1,0 +1,12 @@
+# requirements.txt
+# Версия от 2025-06-11: Зафиксированы совместимые версии
+
+gspread==5.12.4
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+pandas==2.2.2
+pandas-ta==0.3.14b0
+requests==2.32.3
+numpy==1.26.4
+yfinance==0.2.40
+setuptools==69.5.1
